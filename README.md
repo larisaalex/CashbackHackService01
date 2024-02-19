@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/larisaalex/CashbackHackService01/actions/workflows/gradle.yml/badge.svg?branch=testng)](https://github.com/larisaalex/CashbackHackService01/actions/workflows/gradle.yml)
